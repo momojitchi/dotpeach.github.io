@@ -477,7 +477,7 @@ a {
 .socialtree-head_title h1 {
   color: var(--text-color);
   font-size: clamp(3.05rem, 3.54vw + 2.17rem, 5rem);
-  font-family: "Plush-Trial-ExtraBold", Georgia, "Times New Roman", "Palatino Linotype", "Book Antiqua", serif;
+  font-family: "Pridi-Bold", Georgia, "Times New Roman", "Palatino Linotype", "Book Antiqua", serif;
   filter: drop-shadow(2px 6px 0px #fff);
   line-height: 1.25em;
 }
@@ -552,7 +552,7 @@ a {
   background-color: transparent;
   padding: 1rem;
   color: var(--text-color);
-  font-family: "Plush-Trial-ExtraBold";
+  font-family: "Pridi-Bold", Georgia, "Times New Roman", "Palatino Linotype", "Book Antiqua", serif;
   font-size: clamp(1.405rem, 0.805vw + 1.205rem, 1.845rem);
   transition: all 250ms ease-in-out 0ms;
 }
