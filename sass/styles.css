@@ -484,9 +484,9 @@ a {
 .socialtree-head_title p {
   margin-top: 1rem;
   color: var(--text-color);
-  font-family: "Plush-Trial-Medium", Georgia, "Times New Roman", "Palatino Linotype", "Book Antiqua", serif;
+  font-family: "Pridi-Medium", Georgia, "Times New Roman", "Palatino Linotype", "Book Antiqua", serif;
   font-size: clamp(1.56rem, 1vw + 1.31rem, 2.11rem);
-  color: #757575;
+  color: #red;
 }
 .socialtree-head_title .logoPoint {
   color: var(--dotpeach-yellow);

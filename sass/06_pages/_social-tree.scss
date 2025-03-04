@@ -75,9 +75,9 @@
   p {
     margin-top: 1rem;
     color: var(--text-color);
-    font-family: 'Plush-Trial-Medium', $font-serif;
+    font-family: $font-global;
     font-size: $font-size-lg;
-    color: #757575;
+    color: #red;
   }
   .logoPoint {
     color: var(--dotpeach-yellow);
