@@ -80,7 +80,7 @@
     color: #red;
   }
   .logoPoint {
-    color: var(--dotpeach-yellow);
+    color: var(--dot-pink_active);
   }
   .bounce2 {
     display: inline-block;
@@ -164,7 +164,7 @@
         right: 0;
         top: 0;
         bottom: 0;
-        background-color: var(--dotpeach-yellow); 
+        background-color: var(--dot-pink_bg); 
         clip-path: polygon( 86.219% 0.894%,0.073% 22.232%,0.008% 99.895%,99.891% 95.619%,86.219% 0.894% );
         transition: clip-path .2s linear, -webkit-clip-path .2s linear;
         will-change: clip-path;
@@ -216,7 +216,7 @@
 // 2024 Pattern
 // ---------
 .pattern-css {
-  border-top: 5px solid var(--dotpeach-yellow);
+  border-top: 5px solid var(--dot-pink_active);
 }
 
 .white-gradient {
