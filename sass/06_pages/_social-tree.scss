@@ -154,7 +154,7 @@
         left: 78%;
         width: 70px;
         height: 70px;
-        color: var(--text-color);
+        color: var(--dot-pink_active);
       }
       &::before {
         content: "";
@@ -164,7 +164,7 @@
         right: 0;
         top: 0;
         bottom: 0;
-        background-color: var(--dot-pink_bg); 
+        background-color: var(--dot-purple_bg); 
         clip-path: polygon( 86.219% 0.894%,0.073% 22.232%,0.008% 99.895%,99.891% 95.619%,86.219% 0.894% );
         transition: clip-path .2s linear, -webkit-clip-path .2s linear;
         will-change: clip-path;

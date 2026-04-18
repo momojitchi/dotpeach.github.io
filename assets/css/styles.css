@@ -327,8 +327,14 @@ template {
   --dotpeach-pink: #F675B3;
   --link-color: #0a3a75;
   --pattern-bg: #D7ECE7;
+  --dot-pink_bg: #FCEFF8;
+  --dot-pink_active:#FFA5DE;
+  --dot-blue_bg:#F2F7F9;
+  --dot-blue_active:#B1C8F2;
+  --dot-purple_bg:#F3EAFC;
+  --dot-purple_active:#BA84FF;
   --white: #fff;
-  --text-color: #303030;
+  --text-color: #4A3C80;
   --background-global: #fff;
   --link-color: #5094E7;
   --button-color: #3763fb;
@@ -489,7 +495,7 @@ a {
   color: #red;
 }
 .socialtree-head_title .logoPoint {
-  color: var(--dotpeach-yellow);
+  color: var(--dot-pink_active);
 }
 .socialtree-head_title .bounce2 {
   display: inline-block;
@@ -567,7 +573,7 @@ a {
   left: 78%;
   width: 70px;
   height: 70px;
-  color: var(--text-color);
+  color: var(--dot-pink_active);
 }
 .socialist_item a::before {
   content: "";
@@ -577,15 +583,13 @@ a {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: var(--dotpeach-yellow);
-  -webkit-clip-path: polygon(86.219% 0.894%, 0.073% 22.232%, 0.008% 99.895%, 99.891% 95.619%, 86.219% 0.894%);
-          clip-path: polygon(86.219% 0.894%, 0.073% 22.232%, 0.008% 99.895%, 99.891% 95.619%, 86.219% 0.894%);
-  transition: clip-path 0.2s linear, -webkit-clip-path 0.2s linear;
+  background-color: var(--dot-purple_bg);
+  clip-path: polygon(86.219% 0.894%, 0.073% 22.232%, 0.008% 99.895%, 99.891% 95.619%, 86.219% 0.894%);
+  transition: clip-path 0.2s linear;
   will-change: clip-path;
 }
 .socialist_item a:hover::before {
-  -webkit-clip-path: polygon(99.891% 0%, 0.073% 30.418%, 0.008% 99.906%, 89.254% 99.906%, 99.891% 0%);
-          clip-path: polygon(99.891% 0%, 0.073% 30.418%, 0.008% 99.906%, 89.254% 99.906%, 99.891% 0%);
+  clip-path: polygon(99.891% 0%, 0.073% 30.418%, 0.008% 99.906%, 89.254% 99.906%, 99.891% 0%);
 }
 .socialist_item:nth-child(odd) .linkIcon {
   rotate: 12deg;
@@ -612,7 +616,7 @@ a {
 }
 
 .pattern-css {
-  border-top: 5px solid var(--dotpeach-yellow);
+  border-top: 5px solid var(--dot-pink_active);
 }
 
 .white-gradient {
