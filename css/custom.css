@@ -1,0 +1,51 @@
+/* ─────────────────────────────────────────
+   dotpea.ch — custom styles
+   À placer dans static/css/custom.css
+   Et à inclure dans templates/partials/head.html
+   ───────────────────────────────────────── */
+
+/* Tranches homepage */
+.section-tranche {
+  padding: 3rem 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.section-tranche:last-child {
+  border-bottom: none;
+}
+
+.section-tranche h2 {
+  margin-bottom: 1.2rem;
+}
+
+/* Liste étapes du rétablissement */
+.etapes-retablissement {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0;
+  counter-reset: etapes;
+}
+
+.etapes-retablissement li {
+  counter-increment: etapes;
+  padding: 1rem 1rem 1rem 4rem;
+  margin-bottom: 1rem;
+  background: #f9fffe;
+  border-left: 3px solid #1a7a6e;
+  border-radius: 4px;
+  position: relative;
+}
+
+.etapes-retablissement li::before {
+  content: counter(etapes);
+  position: absolute;
+  left: 1rem;
+  font-weight: 900;
+  color: #1a7a6e;
+  font-size: 1.2rem;
+}
+
+/* Espacement boutons côte à côte */
+.c-button + .c-button {
+  margin-left: 1rem;
+}

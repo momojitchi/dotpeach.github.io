@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Ludovic Anzalone - Pair-aidant·e en santé mentale à Lyon - Outil</title>
+    <subtitle>Pair-aidant·e en santé mentale, parce que le rétablissement ça se construit. Lyon et région.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://dotpea.ch/tags/outil/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://dotpea.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-06-15T09:00:00+00:00</updated>
+    <id>https://dotpea.ch/tags/outil/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Formulaire d&#x27;évaluation d&#x27;épuisement en tant que proche aidant</title>
+        <published>2026-06-15T09:00:00+00:00</published>
+        <updated>2026-06-15T09:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Ludovic Anzalone
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dotpea.ch/ressources/evaluer-risque-epuisement-proche-aidant/"/>
+        <id>https://dotpea.ch/ressources/evaluer-risque-epuisement-proche-aidant/</id>
+        
+        <content type="html" xml:base="https://dotpea.ch/ressources/evaluer-risque-epuisement-proche-aidant/">&lt;p&gt;Avant d&#x27;aller plus loin, vu que c&#x27;est un sujet que j&#x27;aborde assez peu (&lt;em&gt;ce n&#x27;est pas ma spécialité)&lt;&#x2F;em&gt;, &lt;strong&gt;rappelons la définition de ce qu&#x27;est un proche aidant&lt;&#x2F;strong&gt; :&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;une personne qui vient en aide de manière régulière et fréquente, à titre non professionnel, pour accomplir tout ou partie des actes ou des activités de la vie quotidienne d&#x27;une personne en perte d&#x27;autonomie, du fait de l&#x27;âge, de la maladie ou d&#x27;un handicap.
+Pour faire simple, c&#x27;est une personne qui doit régulièrement venir en aide à une autre personne qui n&#x27;est pas dans la capacité d&#x27;être autonome. La définition est large, et peut donc à la fois couvrir un parent s&#x27;occupant quotidiennement d&#x27;un enfant avec un TSA, qu&#x27;une personne prodigant régulièrement des soins à une personne âgée.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Quelle que soit la situation, le point commun majeur reste le risque d&#x27;épuisement de la personne qui aide : &lt;strong&gt;donner de son temps bénévolement n&#x27;est pas sans conséquence, ce qui rend la nécessité de soutenir les aidants si fondamentale et reconnue aujourd&#x27;hui&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;la-pair-aidance-familliale-au-service-des-proches-aidants&quot;&gt;La pair-aidance familliale, au service des proches aidants&lt;&#x2F;h2&gt;
+&lt;p&gt;Aujourd&#x27;hui, la &quot;pair-aidance familiale&quot; désigne des proches aidants qui se sont professionnalisés pour accompagner, à leur tour, d&#x27;autres proches aidants. Il s&#x27;agit pour ces personnes de mettre leur propre savoir expérientiel et leur vécu au service de familles traversant des situations similaires. C&#x27;est une forme de pair-aidance professionnelle à part entière, de plus en plus reconnue, et qui constitue une véritable spécialisation. On retrouve d&#x27;ailleurs aujourd&#x27;hui &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;offre-de-formations.univ-lyon1.fr&#x2F;parcours-1690&#x2F;pair-aidance-familiale.html&quot;&gt;des formations adaptées sur le sujet&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;L&#x27;intérêt de la pair-aidance familiale&lt;&#x2F;strong&gt; : permettre à des personnes ne pouvant accéder à la pair-aidance classique (mineurs, personnes âgées, troubles sévères du neurodéveloppement) de bénéficier de la même aide et du même soutien que la pair-aidance traditionnelle, par le dialogue et le soutien de leur proche aidant.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Le partage expérientiel d&#x27;une famille à l&#x27;autre est d&#x27;une richesse inestimable.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Comme tout acte de pair-aidance, il permet de retrouver l&#x27;espoir et de lutter contre l&#x27;isolement et l&#x27;autostigmatisation.&lt;&#x2F;p&gt;
+&lt;p&gt;Aujourd&#x27;hui je souhaite parler d&#x27;un outil qui me semble intéressant à connaître lorsque l&#x27;on fait face à la problématique de proche-aidant : &lt;strong&gt;J&#x27;AIDE, JE M&#x27;ÉVALUE ®&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;j-aide-je-m-evalue-r-un-outil-d-evaluation-et-de-prevention&quot;&gt;J&#x27;AIDE, JE M&#x27;ÉVALUE ® : un outil d&#x27;évaluation et de prévention&lt;&#x2F;h2&gt;
+&lt;p&gt;Car s&#x27;occuper d&#x27;une personne au quotidien n&#x27;est pas sans risque pour sa propre santé physique et psychique, cet outil est un formulaire en ligne qui aide à évaluer le risque d&#x27;épuisement.&lt;&#x2F;p&gt;
+&lt;p&gt;On peut le remplir seul, ou avec l&#x27;aide d&#x27;un pair-aidant. Son résultat produira une synthèse sous les angles suivants :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le &lt;strong&gt;temps consacré&lt;&#x2F;strong&gt; à l&#x27;aide&lt;&#x2F;li&gt;
+&lt;li&gt;La &lt;strong&gt;qualité de vie&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Les &lt;strong&gt;relations sociales&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;La &lt;strong&gt;santé&lt;&#x2F;strong&gt; globale&lt;&#x2F;li&gt;
+&lt;li&gt;Les impacts de &lt;strong&gt;l&#x27;expérience d&#x27;aide sur la santé&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;La &lt;strong&gt;santé physique&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;La &lt;strong&gt;santé psychique&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Le bilan proposé est non seulement un outil incroyable de prise de conscience, c&#x27;est aussi un bon document à avoir sur soi pour commencer des démarches auprès de dispositifs d&#x27;accompagnement. Une réelle aide à résumer sa situation quand parfois les mots sont difficiles, ou ne suffisent plus.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ressources-et-contacts&quot;&gt;Ressources et contacts&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;pour-lyon-et-sa-metropole&quot;&gt;Pour Lyon et sa métropole :&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.metropole-aidante.fr&quot;&gt;&lt;strong&gt;Métropole Aidante&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; : lieu d&#x27;écoute, d&#x27;information et d&#x27;orientation des aidants&lt;&#x2F;p&gt;
+&lt;p&gt;292, rue Vendôme, 69003 Lyon&lt;&#x2F;p&gt;
+&lt;p&gt;04 72 69 15 28&lt;&#x2F;p&gt;
+&lt;p&gt;contact@metropole-aidante.fr&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;pour-trouver-de-l-aide-partout-en-france&quot;&gt;Pour trouver de l&#x27;aide partout en France :&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.soutenirlesaidants.fr&quot;&gt;Soutenir les Aidants&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; : plateforme en ligne&lt;&#x2F;p&gt;
+&lt;p&gt;https:&#x2F;&#x2F;www.soutenirlesaidants.fr&lt;&#x2F;p&gt;
+&lt;p&gt;Permet de chercher parmi plus de 250 dispositifs pour répondre aux besoins des proches aidants.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Les fiches récapitulatives du Dr Igor Thiriez</title>
+        <published>2026-06-14T09:00:00+00:00</published>
+        <updated>2026-06-14T09:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Ludovic Anzalone
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dotpea.ch/ressources/les-fiches-recapitulatives-dr-igor-thiriez/"/>
+        <id>https://dotpea.ch/ressources/les-fiches-recapitulatives-dr-igor-thiriez/</id>
+        
+        <content type="html" xml:base="https://dotpea.ch/ressources/les-fiches-recapitulatives-dr-igor-thiriez/">&lt;p&gt;Lorsque l&#x27;on pratique la pair-aidance, il arrive toujours un moment où l&#x27;on cherche à se munir d&#x27;outils et de petits éléments pratiques d&#x27;informations qu&#x27;on peut garder à portée de main.&lt;&#x2F;p&gt;
+&lt;p&gt;Sous les conseils de l&#x27;incroyable Sandra, pair-aidante chez &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.espairs.org&quot;&gt;Espairs&lt;&#x2F;a&gt;, je me suis imprimé plusieurs des fiches proposées par le Dr Igor Thiriez sur son blog.&lt;&#x2F;p&gt;
+&lt;p&gt;Bien qu&#x27;elles aient l&#x27;air un peu imposantes au premier regard &lt;em&gt;(couleurs saturées, surpésence d&#x27;informations)&lt;&#x2F;em&gt;, les fiches sont incroyablement bien construites et résument clairement certains sujets : description de troubles, symptômes, médicaments, ou même certaines techniques comme l&#x27;ancrage.&lt;&#x2F;p&gt;
+&lt;p&gt;Elles sont disponibles en PDF, faciles à consulter, à enregistrer, et personnellement je les ai imprimées et conservées dans un petit classeur que je transporte facilement !&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;les-fiches-recapitulatives-des-traitements&quot;&gt;Les fiches récapitulatives des traitements&lt;&#x2F;h2&gt;
+&lt;p&gt;En tant que pair-aidant, nous ne sommes pas psychiatres, et nous n&#x27;avons pas vocation à l&#x27;être. Les fiches du Dr Thiriez permettent un moment de partage vraiment intéressant lors d&#x27;entretiens individuels. On peut avec la personne concernée retrouver facilement le traitement qu&#x27;elle prend, pour l&#x27;aider à assumer certains effets secondaires et réduire l&#x27;autostigmatisation.&lt;&#x2F;p&gt;
+&lt;p&gt;Je trouve aussi qu&#x27;elles permettent un bon tremplin de partage expérientiel : on peut facilement échanger sur notre vécu face à la prise de certains traitements, s&#x27;échanger des conseils ou du vécu sur l&#x27;impact de certains effets secondaires.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Liste des &lt;strong&gt;neuroleptiques&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;neuroleptiques-tab&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;neuroleptiques-tab&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Liste des &lt;strong&gt;benzodiazépines&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;benzodiazepines-tab&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;benzodiazepines-tab&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Liste des &lt;strong&gt;stabilisateurs d&#x27;humeur&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;stabilisateurs-de-lhumeur-tab&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;stabilisateurs-de-lhumeur-tab&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Liste des &lt;strong&gt;hypnotiques&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;hypnotiques-tab&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;hypnotiques-tab&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Liste des &lt;strong&gt;antidépresseurs&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;antidepresseurs-tab&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;antidepresseurs-tab&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;les-fiches-recapitulatives-des-troubles-et-symptomes&quot;&gt;Les fiches récapitulatives des troubles et symptômes&lt;&#x2F;h2&gt;
+&lt;p&gt;Quand on fait face à une personne en premières étapes du rétablissement, les fiches du Dr Thiriez deviennent un outil pédagogique vraiment incroyable et très pratique pour vulgariser certains troubles ou pathologies. On peut la consulter directement avec la personne concernée, dans l&#x27;objectif de créer le dialogue et de &quot;normaliser&quot; certaines situations. Encore une fois, ça aide à réduire l&#x27;autostigmatisation.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fiche sur le &lt;strong&gt;trouble dépressif&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;la-depression-symptomes-et-sous-types&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;la-depression-symptomes-et-sous-types&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Fiche sur le &lt;strong&gt;trouble bipolaire&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;le-trouble-bipolaire&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;le-trouble-bipolaire&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Fiche sur le &lt;strong&gt;trouble anxieux généralisé&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;linquietude&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;linquietude&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Fiche sur &lt;strong&gt;l&#x27;anxiété sociale&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;lanxiete-sociale&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;lanxiete-sociale&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Fiche sur le &lt;strong&gt;trouble obsessionnel-compulsif&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;le-trouble-obsessionnel-compulsif&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;le-trouble-obsessionnel-compulsif&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Fiche sur le &lt;strong&gt;trouble de stress post-traumatique&lt;&#x2F;strong&gt; : &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;le-trouble-de-stress-post-traumatique&#x2F;&quot;&gt;https:&#x2F;&#x2F;igorthiriez.com&#x2F;portfolio&#x2F;le-trouble-de-stress-post-traumatique&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bref&quot;&gt;Bref !&lt;&#x2F;h2&gt;
+&lt;p&gt;À vous de voir, consulter, vous approprier les fiches à disposition. Vous pouvez retrouver &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;igorthiriez.com&#x2F;index-des-fiches&#x2F;&quot;&gt;la liste complète de toutes les fiches disponibles en PDF sur le site du Dr Thiriez&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
