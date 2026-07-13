@@ -5,8 +5,94 @@
     <link rel="self" type="application/atom+xml" href="https://dotpea.ch/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://dotpea.ch"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-06-15T09:00:00+00:00</updated>
+    <updated>2026-07-13T14:00:00+00:00</updated>
     <id>https://dotpea.ch/atom.xml</id>
+    <entry xml:lang="en">
+        <title>FACILE : la boîte à ressources accessible FALC</title>
+        <published>2026-07-13T14:00:00+00:00</published>
+        <updated>2026-07-13T14:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Ludovic Anzalone
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dotpea.ch/ressources/facile-adapei69-falc/"/>
+        <id>https://dotpea.ch/ressources/facile-adapei69-falc/</id>
+        
+        <content type="html" xml:base="https://dotpea.ch/ressources/facile-adapei69-falc/">&lt;p&gt;&lt;strong&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;facile.adapei69.fr&quot;&gt;FACILE&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; est un site à l&#x27;initiative de l&#x27;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.adapei69.fr&quot;&gt;Adapei69&lt;&#x2F;a&gt;, &lt;em&gt;l&#x27;association métropolitaine et départementale de parents et amis de personnes handicapées mentales&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Son objectif est simple : recenser un maximum de contenus pédagogiques respectant la méthode FALC, pour les mettre plus facilement à disposition des personnes concernées.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;qu-est-ce-que-le-falc&quot;&gt;Qu&#x27;est-ce que le FALC ?&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;FALC&lt;&#x2F;strong&gt;, acronyme de &lt;em&gt;&lt;strong&gt;Facile À Lire et à Comprendre&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;, est une méthode d&#x27;expression visant à rendre les informations plus accessibles pour les personnes en situation de handicap mental, mais aussi, plus globalement, à toute personne pouvant avoir des difficultés de compréhension &lt;em&gt;(personnes âgées, malvoyantes, dyslexiques, personnes ne maîtrisant pas totalement la langue française...)&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;La méthode FALC repose sur des dizaines de règles à respecter pour rendre un texte plus facile à appréhender, comme par exemple :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Utiliser des mots simples&lt;&#x2F;li&gt;
+&lt;li&gt;Faire des phrases courtes&lt;&#x2F;li&gt;
+&lt;li&gt;Illustrer les idées avec des images&lt;&#x2F;li&gt;
+&lt;li&gt;Adopter une mise en page simple&lt;&#x2F;li&gt;
+&lt;li&gt;Choisir une police d&#x27;écriture de grande taille&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Un document FALC n&#x27;est pas seulement rédigé selon ces règles : &lt;strong&gt;il doit aussi être relu et validé par des personnes en situation de handicap avant de pouvoir porter le pictogramme qui identifie ce type de contenu.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Si vous souhaitez aller plus loin sur le sujet, l&#x27;Unapei propose un &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;falc.unapei.org&#x2F;quest-ce-que-le-falc&#x2F;les-regles-du-falc&#x2F;&quot;&gt;guide complet des règles du FALC&lt;&#x2F;a&gt;, accompagné d&#x27;une liste d&#x27;autovérification et de son explication, pour toute personne souhaitant rédiger ou évaluer un contenu FALC.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;facile-par-l-adapei69&quot;&gt;FACILE, par l&#x27;Adapei69&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;facile.adapei69.fr&quot;&gt;La boîte à ressources FACILE&lt;&#x2F;a&gt; a été créée par l&#x27;organisme Adapei69 Formation afin de regrouper un maximum de ressources et d&#x27;outils respectant la méthode FALC.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Les ressources sont organisées par thème&lt;&#x2F;strong&gt; :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Droit et handicap&lt;&#x2F;li&gt;
+&lt;li&gt;École et travail&lt;&#x2F;li&gt;
+&lt;li&gt;Vie de tous les jours&lt;&#x2F;li&gt;
+&lt;li&gt;Santé et bien-être&lt;&#x2F;li&gt;
+&lt;li&gt;Vie citoyenne et politique&lt;&#x2F;li&gt;
+&lt;li&gt;Activités à faire en groupe ou en établissement&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Au-delà de l&#x27;initiative elle-même que je trouve déjà incroyable, il est important de noter que l&#x27;intégralité de la plateforme a été pensée pour respecter, elle aussi, la convention FALC.
+Ainsi, le site arbore de grandes typographies, des couleurs faciles à distinguer et des espaces bien délimités.
+Une &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;facile.adapei69.fr&#x2F;mode-demploi&#x2F;&quot;&gt;vidéo de mode d&#x27;emploi&lt;&#x2F;a&gt; (en FALC également !) est même mise à disposition pour expliquer le fonctionnement du site.&lt;&#x2F;p&gt;
+&lt;div style=&quot;margin: 2rem 0;&quot;&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;facile.adapei69.fr&quot; title=&quot;Découvrir la boîte à ressources FACILE&quot; class=&quot;c-button c-button--primary c-button--small&quot;&gt;
+      Découvrir le site FACILE &lt;span class=&quot;circle-bg&quot;&gt;&lt;svg class=&quot;button-arrow svg-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;use href=&quot;#arrow--right&quot;&gt;&lt;&#x2F;use&gt;&lt;&#x2F;svg&gt;&lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;&lt;br&#x2F;&gt;
+&lt;h3 id=&quot;aide-a-la-contribution&quot;&gt;Aide à la contribution&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Tous les documents mis à disposition sont évalués et ajoutés manuellement par la personne en charge du site.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Si vous disposez de documents respectant la convention FALC qui pourraient enrichir cette base, n&#x27;hésitez pas à contacter l&#x27;adresse &lt;a href=&quot;mailto:facile@adapei69.fr&quot;&gt;facile@adapei69.fr&lt;&#x2F;a&gt; pour les suggérer.&lt;&#x2F;p&gt;
+&lt;p&gt;Soutenir ce type d&#x27;initiative, c&#x27;est aussi contribuer à rendre l&#x27;information accessible au plus grand nombre.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;un-outil-utile-pour-la-pair-aidance&quot;&gt;Un outil utile pour la pair-aidance&lt;&#x2F;h2&gt;
+&lt;p&gt;En tant que pair-aidant⋅e, il est toujours utile de connaître plusieurs outils pour la mise à disposition d&#x27;informations.&lt;&#x2F;p&gt;
+&lt;p&gt;Connaître des documents accessibles en FALC peut prendre tout son sens face au suivi de personnes ayant de forts besoins de vulgarisation, ou des difficultés avec la langue française.&lt;&#x2F;p&gt;
+&lt;p&gt;Le FALC permet alors d&#x27;aborder certains sujets plus sereinement. Agir en tant qu&#x27;intermédiaire dans le milieu de la santé est une composante essentielle de notre métier. À ce titre, la vulgarisation et l&#x27;accessibilité de l&#x27;information représentent des problématiques globales, inhérentes à notre activité.&lt;&#x2F;p&gt;
+&lt;p&gt;Voici quelques documents que j&#x27;ai pu identifier qui peuvent être pratique dans la pratique de la pair-aidance en santé mentale :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;facile.adapei69.fr&#x2F;nos-ressources&#x2F;sante&#x2F;&quot;&gt;« La santé mentale c&#x27;est quoi ? »&lt;&#x2F;a&gt; — catégorie Santé&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;facile.adapei69.fr&#x2F;nos-ressources&#x2F;sante&#x2F;&quot;&gt;Le dispositif « Mon psy »&lt;&#x2F;a&gt; — catégorie Santé&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;facile.adapei69.fr&#x2F;nos-ressources&#x2F;bien-etre&#x2F;&quot;&gt;Mes émotions&lt;&#x2F;a&gt; — catégorie Bien-être&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;À l&#x27;heure où j&#x27;écris ces lignes, les documents proposés autour des problématiques de santé mentale sont encore peu nombreux. Si vous en connaissez d&#x27;autres, n&#x27;hésitez pas à les suggérer à &lt;a href=&quot;mailto:facile@adapei69.fr&quot;&gt;facile@adapei69.fr&lt;&#x2F;a&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Et qui sait, peut-être que la prochaine fois que vous vous pencherez sur l&#x27;écriture d&#x27;un document, vous pourrez avoir la méthode FALC en tête ?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;une-video-pour-resumer&quot;&gt;Une vidéo pour résumer&lt;&#x2F;h2&gt;
+&lt;p&gt;Pour conclure, une courte vidéo de &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.falc.be&quot;&gt;FALC.be&lt;&#x2F;a&gt; résume parfaitement la problématique FALC :&lt;&#x2F;p&gt;
+&lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;951495118?fl=pl&amp;fe=vl&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen title=&quot;Vidéo de présentation du FALC&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;ressources-et-contacts&quot;&gt;Ressources et contacts&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.adapei69.fr&quot;&gt;&lt;strong&gt;Adapei 69&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; : Association métropolitaine et départementale de parents et amis de personnes handicapées mentales.&lt;&#x2F;p&gt;
+&lt;p&gt;75, cours Albert Thomas, 69003 Lyon&lt;&#x2F;p&gt;
+&lt;p&gt;04 72 76 08 88&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.adapei69.fr&quot;&gt;https:&#x2F;&#x2F;www.adapei69.fr&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:contact@adapei69.fr&quot;&gt;contact@adapei69.fr&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Plateforme FACILE&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;facile.adapei69.fr&quot;&gt;https:&#x2F;&#x2F;facile.adapei69.fr&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:facile@adapei69.fr&quot;&gt;facile@adapei69.fr&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Formulaire d&#x27;évaluation d&#x27;épuisement en tant que proche aidant</title>
         <published>2026-06-15T09:00:00+00:00</published>
