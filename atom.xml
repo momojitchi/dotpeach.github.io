@@ -5,8 +5,62 @@
     <link rel="self" type="application/atom+xml" href="https://dotpea.ch/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://dotpea.ch"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-07-13T00:00:00+00:00</updated>
+    <updated>2026-10-02T00:00:00+00:00</updated>
     <id>https://dotpea.ch/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Construction identitaire queer et rétablissement en santé mentale</title>
+        <published>2026-10-02T00:00:00+00:00</published>
+        <updated>2026-10-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Ludovic Anzalone
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dotpea.ch/ressources/construction-identitaire-queer-retablissement/"/>
+        <id>https://dotpea.ch/ressources/construction-identitaire-queer-retablissement/</id>
+        
+        <content type="html" xml:base="https://dotpea.ch/ressources/construction-identitaire-queer-retablissement/">&lt;p&gt;Suite aux soutenances et aux évaluations de fin d&#x27;année du &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;offre-de-formations.univ-lyon1.fr&#x2F;parcours-1367&#x2F;pair-aidance-en-sante-mentale-et-neurodiversite.html&quot;&gt;Diplôme Universitaire de Pair-Aidance en santé mentale et neurodiversité de l&#x27;université&lt;&#x2F;a&gt; de Lyon 1, mon mémoire issu de l&#x27;année de formation est désormais accessible en ligne sur le site du &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;centre-ressource-rehabilitation.org&quot;&gt;Centre de ressource de réhabilitation psychosociale&lt;&#x2F;a&gt; &lt;em&gt;(CRR)&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;synthese-du-memoire&quot;&gt;Synthèse du mémoire&lt;&#x2F;h2&gt;
+&lt;p&gt;Ce mémoire &lt;strong&gt;explore les apports des mécanismes de résilience des communautés queers à la clinique de la pair-aidance en santé mentale.&lt;&#x2F;strong&gt; En comparant les étapes du rétablissement aux trajectoires du dévoilement de soi, &lt;strong&gt;il met en lumière des stratégies partagées de réappropriation de l&#x27;identité&lt;&#x2F;strong&gt; narrative. Le dévoilement professionnel y est analysé comme un outil clinique d&#x27;insoumission face au stigmate, exigeant un encadrement rigoureux. Bien que soulignant les différences étiologiques entre parcours queer et réalité psychiatrique, ce travail démontre comment ces compétences minoritaires enrichissent le soutien par les pairs vers un rétablissement civique.&lt;&#x2F;p&gt;
+&lt;div style=&quot;margin: 2rem 0;&quot;&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;rehabilitation.reseaudoc.org&#x2F;index.php?lvl=notice_display&amp;id=6098&quot; title=&quot;Découvrir la boîte à ressources FACILE&quot; class=&quot;c-button c-button--primary c-button--small&quot;&gt;
+      Lire mon mémoire sur le CRR&lt;span class=&quot;circle-bg&quot;&gt;&lt;svg class=&quot;button-arrow svg-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;use href=&quot;#arrow--right&quot;&gt;&lt;&#x2F;use&gt;&lt;&#x2F;svg&gt;&lt;&#x2F;span&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;&lt;br&#x2F;&gt;
+&lt;h2 id=&quot;origine-de-la-demarche&quot;&gt;Origine de la démarche&lt;&#x2F;h2&gt;
+&lt;p&gt;La genèse de ce travail repose sur une lassitude et un malaise ressentis face à une injonction entendue à plusieurs reprises dans le milieu médical : &lt;em&gt;« Il ne faut pas vous dévoiler, vous risquez la stigmatisation »&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Habitué⋅e à la stigmatisation en tant que personne queer et m&#x27;engageant dans une démarche pour devenir pair-aidant⋅e professionnel⋅le, je n&#x27;arrivais pas à comprendre la logique derrière cette barrière qui m&#x27;était imposée. Pire encore, je la vivais comme une réelle violence, comparable à une &quot;mise au placard&quot;. On m&#x27;obligeait à cacher qui j&#x27;étais, après tout le travail accompli pour m&#x27;accepter. Comme lors de mon parcours identitaire queer, &lt;strong&gt;avancer dans mon rétablissement a été un long travail d&#x27;acceptation et de construction de moi&lt;&#x2F;strong&gt;. La légitimité de la fonction de pair-aidant⋅e reposant sur le savoir expérientiel et la capacité à incarner un effet miroir pour favoriser l&#x27;autonomisation, l&#x27;obligation de taire cette partie constitutive de l&#x27;identité entrait &lt;em&gt;(pour moi)&lt;&#x2F;em&gt; &lt;strong&gt;en contradiction directe avec l&#x27;essence même de l&#x27;accompagnement par les pairs.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;J&#x27;ai alors découvert que le dévoilement de soi portait un nom et constituait un véritable sujet de débat clinique dans le milieu de la santé mentale. Cette réalisation a été le point de départ de mes recherches.&lt;&#x2F;p&gt;
+&lt;p&gt;Ces recherches ont ensuite été recadrées et orientées par trois étapes importantes de mon année universitaire :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mon stage au &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.inicea.fr&#x2F;sante-mentale&#x2F;centre-ambulatoire-lyon-69006&quot;&gt;CLPA&lt;&#x2F;a&gt; :&lt;&#x2F;strong&gt; L&#x27;observation clinique au sein du pôle de soins en mixité choisie m&#x27;a fait prendre conscience d&#x27;une différence d&#x27;acceptation face au dévoilement et à la stigmatisation. Les patient·es queers, déjà habitué·es au stigmate, se dévoilent plus promptement, tandis que d&#x27;autres profils découvrent cette violence et nécessitent de l&#x27;aide pour assumer le regard extérieur. J&#x27;ai alors compris que le dévoilement n&#x27;était qu&#x27;une étape, la véritable différence résidant dans les parcours de vie.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mon stage chez &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.espairs.org&quot;&gt;ESPAIRS&lt;&#x2F;a&gt; :&lt;&#x2F;strong&gt; L&#x27;utilisation quotidienne des &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;dotpea.ch&#x2F;pair-aidance&#x2F;&quot;&gt;cinq étapes du rétablissement&lt;&#x2F;a&gt; comme véritable outil clinique de prise de conscience m&#x27;a conduit⋅e à opérer une inversion de ma méthodologie. Au lieu de partir des études de genre, j&#x27;ai pris pour postulat de départ les étapes du rétablissement afin d&#x27;y chercher des similitudes structurelles avec le cheminement d&#x27;une identité de genre.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;La rencontre avec ma directrice de mémoire, &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;l%C3%A9a-bourseau-0bb935229&#x2F;?isSelfProfile=false&quot;&gt;la Dre Léa Bourseau&lt;&#x2F;a&gt; :&lt;&#x2F;strong&gt; En tant que psychiatre systémicienne, elle a constitué le chaînon manquant de cette réflexion. Elle m&#x27;a permis de recadrer mes idées à travers le prisme de la psychologie systémique, son soutien et ses connaissances ont été un atout exceptionnel pour donner à mes intuitions l&#x27;approche académique qu&#x27;il leur manquait.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;J&#x27;ai bon espoir que ce mémoire ne soit qu&#x27;un premier pas dans &lt;strong&gt;mes démarches de suivi en double pairité&lt;&#x2F;strong&gt;. L&#x27;objectif est d&#x27;utiliser ces expériences croisées pour &lt;strong&gt;aider les personnes queers en rétablissement à se soutenir mutuellement grâce à des acquis issus du milieu de la santé, tout en permettant aux professionnel·les d&#x27;enrichir leur clinique via l&#x27;effet miroir sur les mécaniques du rétablissement&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;precision-sur-l-analogie-structurelle&quot;&gt;&lt;strong&gt;Précision sur l&#x27;analogie structurelle&lt;&#x2F;strong&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Il est impératif de rappeler qu&#x27;il n&#x27;est en aucun cas question de remettre les questions d&#x27;identité de genre et d&#x27;orientation sexuelle au même niveau qu&#x27;une pathologie psychiatrique.&lt;&#x2F;strong&gt; L&#x27;objectif de cette démarche n&#x27;est absolument pas de tenir un discours pathologisant, car il n&#x27;existe aucune équivalence médicale entre une identité queer et un trouble psychiatrique. Les liens tissés au sein de ce travail s&#x27;appuient strictement sur &lt;strong&gt;une analogie structurelle : il s&#x27;agit d&#x27;étudier les mécanismes de résilience, de construction identitaire et de réappropriation narrative partagés face à l&#x27;expérience de la stigmatisation&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;pour-aller-plus-loin-sur-le-sujet&quot;&gt;Pour aller plus loin sur le sujet&lt;&#x2F;h2&gt;
+&lt;p&gt;Voici quelques références bibliographiques abordées dans le mémoire pour approfondir ces notions :&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Sur le cycle du dévoilement identitaire queer :&lt;&#x2F;strong&gt; Ali, S., &amp;amp; Barden, S. (2015). &lt;em&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tpcjournal.nbcc.org&#x2F;considering-the-cycle-of-coming-out-sexual-minority-identity-development&#x2F;&quot;&gt;Considering the cycle of coming out: Sexual minority identity development&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt; The Professional Counselor.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Sur la transformation de l&#x27;identité narrative en rétablissement :&lt;&#x2F;strong&gt; Koenig, M., &amp;amp; Castillo, M.-C. (2015). &lt;em&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;shs.cairn.info&#x2F;article&#x2F;JLE_DECHA_2015_01_0121?lang=fr&quot;&gt;Le rétablissement : un parcours de transformation identitaire&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt; Santé mentale et guérison.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>FACILE : la boîte à ressources accessible FALC</title>
         <published>2026-07-13T00:00:00+00:00</published>
